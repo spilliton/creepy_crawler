@@ -1,5 +1,7 @@
 # creepy_crawler
 
+For anyone looking this is unreleased / unfinished.
+
 A website scraping framework.  Creepy crawler is ideal for implementing different crawling rules for each site you intend to spider/scrape.  It is especially good for small incremental crawling, such as in a [heroku hourly cron job][herokucron].
 
 This gem requires ActiveRecord version 3.0.0 or greater.
